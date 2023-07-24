@@ -1,0 +1,66 @@
+  {
+    "id1": "1",
+    "name1": "Google Pixel 6 Pro",
+    "color1": "Cloudy White",
+    "capacity1": "128 GB",
+
+     "id2": "2",
+      "name2": "Apple iPhone 12 Mini, 256GB, Blue",
+      "data2": null,
+
+      "id3": "3",
+      "name3": "Apple iPhone 12 Pro Max",
+      "color3": "Cloudy White",
+      "capacity_GB": 512,
+
+      "id4": "4",
+      "name4": "Apple iPhone 11, 64GB",
+      "price4": 389.99,
+      "color4": "Purple",
+
+      
+      "id5": "5",
+      "name5": "Samsung Galaxy Z Fold2",
+      "price5": 689.99,
+      "color5": "Brown",
+
+      "id6": "6",
+      "name6": "Apple AirPods",
+      "generation6": "3rd",
+      "price6": 120,
+
+      "id7": "7",
+     "name7": "Apple MacBook Pro 16",    
+      "year7": 2019,
+      "price7": 1849.99,
+      "CPU_model7": "Intel Core i9",
+      "Hard_disk_size7": "1 TB",
+
+      "id8": "8",
+      "name8": "Apple Watch Series 8",
+      "Strap_Colour8": "Elderberry",
+      "Case_Size8": "41mm",
+
+      "id9": "9",
+      "name9": "Beats Studio3 Wireless",    
+      "Color9": "Red",
+      "Description9": "High-performance wireless noise cancelling headphones",
+
+
+      "id10": "10",
+      "name10": "Apple iPad Mini 5th Gen",
+      "Capacity10": "64 GB",
+      "Screen_size10": 7.9,
+
+
+
+      "idInvalid": "200",
+      "error":"Oject with id=200 was not found.",
+
+
+      "name_Req": "Apple MacBook Pro 17",
+      "year_Req": 2019,
+      "price_Req": 1849.99,
+      "CPU_model_Req": "Intel Core i9",
+      "Hard_disk_size_Req": "1 TB"
+  }
